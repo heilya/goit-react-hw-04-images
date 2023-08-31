@@ -1,5 +1,4 @@
 import React from "react";
-import { useState } from "react";
 import toast from 'react-hot-toast';
 import {Header, Form, Input, Button} from './searchbar.styled'
 
@@ -12,7 +11,7 @@ const Searchbar = (props) =>{
       return;
     }
     const newQuery = event.target.elements.query.value;
-    props.onSumbit(newQuery)
+    props.onSubmit(newQuery)
     event.target.reset();
   };
 
