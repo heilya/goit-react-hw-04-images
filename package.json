@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-03-image-finder",
+  "name": "goit-react-hw-04-image",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://heilya.github.io/goit-react-hw-03-image-finder/",
+  "homepage": "https://heilya.github.io/goit-react-hw-04-image/",
   "dependencies": {
     "@flaticon/flaticon-uicons": "^2.4.0",
     "@testing-library/jest-dom": "^5.16.3",
