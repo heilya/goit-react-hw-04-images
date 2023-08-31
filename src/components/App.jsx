@@ -1,6 +1,7 @@
 import { Component } from "react";
 import axios from "axios";
-import {Searchbar} from "./searchbar/searchbar";
+// import {Searchbar} from "./searchbar/searchbar";
+import Searchbar from "./searchbar/searchbar";
 import {ImageGallery} from "./imageGallery/imagegallery";
 import {Loader} from "./loader/loader";
 import {Button} from "./loadMore/button";
